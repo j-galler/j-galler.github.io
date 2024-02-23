@@ -1,6 +1,7 @@
 # Where things are
 source              : .
 baseurl             : /j-galler
+title               : Just Glib
 destination         : ./_site
 collections_dir     : .
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
