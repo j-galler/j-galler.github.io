@@ -4,8 +4,7 @@ Welcome to my corner of the internet
 
 This place will be under construction for a little while.
 
-Click [here](about.md) to learn more
+[Adventure Awaits](storyContents.md]
 
-To tide you over, here is a cool pic I took:
+[Through the lens](photopage.md)
 
-![First Photo](assets/images/BlueAngels.png)
