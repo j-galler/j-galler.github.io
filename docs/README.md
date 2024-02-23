@@ -2,10 +2,9 @@
 
 Welcome to my corner of the internet
 
-This place will be under contstruction for a little while.
+This place will be under construction for a little while.
 
-Click [here](/docs/about.md) to learn more
+[Adventure Awaits](storyContents.md)
 
-To tide you over, here is a cool pic I took:
+[Through the lens](photopage.md)
 
-![First Photo](/docs/assets/images/BlueAngels.png)
