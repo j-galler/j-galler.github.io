@@ -1,7 +1,7 @@
 # Where things are
 source              : .
 baseurl             : /j-galler
-title               : Jestsam Gems
+title               : Jetsam Gems
 description         : A collection of thoughts and images
 destination         : ./_site
 collections_dir     : .
