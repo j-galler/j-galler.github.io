@@ -1,7 +1,7 @@
 # Where things are
 source              : .
 baseurl             : /j-galler
-title               : Jetsam Gems
+title               : Parallax Transmissions
 description         : A collection of thoughts and images
 destination         : ./_site
 collections_dir     : .
