@@ -1,10 +1,8 @@
-<img align="left" width="500" src="assets/images/BlueAngels.png">  
-<br/><br/>
-<img align="left" width="500" src="assets/images/Bike.png">  
-
-<img align="left" width="500" src="assets/images/Market.png">  
-
-<img align="left" width="500" src="assets/images/Beetle.png">  
-
-
-
+<div class="image-grid">
+    <img src="assets/images/BlueAngels.png" alt="Description 1">
+    <img src="assets/images/Bike.png" alt="Description 2">
+    <img src="assets/images/Market.png" alt="Description 3">
+    <img src="assets/images/Beetle.png" alt="Description 4">
+    <img src="assets/images/River.jpeg" alt="Description 5">
+    <img src="assets/images/Grass.jpeg" alt="Description 6">
+</div>
