@@ -1,3 +1,5 @@
 #I've done what I can to transcribe these messages.
 
-[1. Reapers](prose/Reapers.md)
+[Reapers](prose/Reapers.md)
+The Lonely Tower:
+&nbsp[1](prose/Golem_1.md)
