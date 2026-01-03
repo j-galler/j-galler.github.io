@@ -15,7 +15,7 @@ collections:
   posts:
     output          : true
     
-remote_theme: riggraz/no-style-please
+theme: jekyll-theme-midnight
 
 # Handling Reading
 safe                : false
