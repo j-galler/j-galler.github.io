@@ -14,6 +14,8 @@ sass:
 collections:
   posts:
     output          : true
+    
+remote_theme: riggraz/no-style-please
 
 # Handling Reading
 safe                : false
